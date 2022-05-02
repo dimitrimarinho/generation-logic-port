@@ -3,7 +3,12 @@
 Resolução de Exercícios de Lógica de Programação em Portugol do Bootcamp da Generation Brasil <br><br>
 
 
-#### Descrição dos exercícios
-Lista 1, clique >> [aqui] << Para ver a descrição dos exercícios, clique --> [aqui](https://github.com/dimitrimarinho/generation-logic-port/blob/c910c1b3d5a5fb869763f8ce76fab7cae507a81d/PDF-Exercicios/INTRO-CS-2%20Exerc%C3%ADcios%20de%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o.pdf) <-- para ser redirecionado(a) para o PDF.
+### Descrição dos exercícios
 
-Para ver a pasta com os códigos em Portugol das resoluções dos exercícios, clique --> [aqui](https://github.com/dimitrimarinho/generation-logic-port/tree/main/resolucoes) <-- para ser redirecionado(a).
+* Lista 1 - Introdução aos Algoritmos -  clique <a href="https://github.com/dimitrimarinho/generation-logic-port/blob/main/PDF-Exercicios/Introdu%C3%A7%C3%A3o%20aos%20Algoritmos/INTRO-CS-2%20Exerc%C3%ADcios%20de%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o.pdf" target=“_blank”> aqui </a>.
+* Lista 2 - Laços condicionais -  clique <a href="https://github.com/dimitrimarinho/generation-logic-port/blob/main/PDF-Exercicios/La%C3%A7os%20condicionais/Exerc%C3%ADcios%20La%C3%A7o%20Condicional%20l%C3%B3gica1.pdf" target=“_blank”> aqui </a>.
+
+### Resoluções em Portugol 
+
+* Resoluções da Lista 1 - Introdução aos Algoritmos - clique <a href="https://github.com/dimitrimarinho/generation-logic-port/tree/main/Resolucoes/Introdu%C3%A7%C3%A3o%20aos%20algoritmos" target=“_blank”> aqui </a>.
+* Resoluções da Lista 2 - Laços condicionais - clique <a href="https://github.com/dimitrimarinho/generation-logic-port/tree/main/Resolucoes/La%C3%A7os%20condicionais" target=“_blank”> aqui </a>.
