@@ -18,15 +18,16 @@ programa
 			}			
 			vetorLancamentos[i] = valorFace
 			somaValores += valorFace
-			se(valorFace > maiorFace){
-				maiorFace = valorFace
+			se(valorFace >= maiorFace){				
+				se (valorFace > maiorFace){
+					quantidadeOcorrencias = 1
+					maiorFace = valorFace
+				}
+				senao{
+					quantidadeOcorrencias++
+				}
 			}			
-		}
-		para(inteiro ocorrencia = 0; ocorrencia < 10; ocorrencia++){
-			se (vetorLancamentos[ocorrencia] == maiorFace){
-				quantidadeOcorrencias++
-			}
-		}
+		}		
 		mediaValores = somaValores / 10
 		limpa()
 		escreva("A média dos lançamentos foi: ", mediaValores, "\n")
@@ -38,7 +39,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 733; 
+ * @POSICAO-CURSOR = 789; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {valorFace, 7, 10, 9}-{vetorLancamentos, 7, 21, 16}-{maiorFace, 7, 43, 9}-{quantidadeOcorrencias, 7, 58, 21};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
