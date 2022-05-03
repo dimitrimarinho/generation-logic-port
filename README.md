@@ -16,4 +16,4 @@ Resolução de Exercícios de Lógica de Programação em Portugol do Bootcamp d
 * Resoluções da Lista 1 - Introdução aos Algoritmos - clique <a href="https://github.com/dimitrimarinho/generation-logic-port/tree/main/Resolucoes/Introdu%C3%A7%C3%A3o%20aos%20algoritmos" target=“_blank”> aqui </a>.
 * Resoluções da Lista 2 - Laços Condicionais - clique <a href="https://github.com/dimitrimarinho/generation-logic-port/tree/main/Resolucoes/La%C3%A7os%20condicionais" target=“_blank”> aqui </a>.
 * Resoluções da Lista 3 - Laços de Repetição - clique <a href="https://github.com/dimitrimarinho/generation-logic-port/tree/main/Resolucoes/La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o" target=“_blank”> aqui </a>.
-* Resoluções da Lista 4 - Vetores e Matrizes - clique <a href="”> aqui </a>.
+* Resoluções da Lista 4 - Vetores e Matrizes - clique <a href=""> aqui </a>.
