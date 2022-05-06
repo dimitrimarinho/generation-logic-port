@@ -6,8 +6,8 @@ programa
 	{
 		inteiro A, B, C
 		real D, somAB, somBC, R, S
-		escreva("Informe três números inteiros: ")
-		escreva("\nA: ")
+		escreva("Informe três números inteiros: ")		
+		escreva("\nA: ")
 		leia(A)
 		escreva("\nB: ")
 		leia(B)
