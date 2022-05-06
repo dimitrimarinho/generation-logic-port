@@ -1,6 +1,7 @@
 programa
 {
-	inclua biblioteca Matematica --> math
+	inclua biblioteca Matematica
+ --> math
 	
 	funcao inicio()
 	{
@@ -16,7 +17,7 @@ programa
 		leia(y2)
 		radicando = (math.potencia((x2-x1), 2.0) + math.potencia((y2-y1), 2.0)) 
 		d = math.raiz(radicando,2.0)
-		escreva("\nA distância entre os dois pontos no plano que foram informados é: ", d, "\n")
+		escreva("\nA distância no plano entre os dois pontos informados é: ", d, "\n")
 	}
 }
 /* $$$ Portugol Studio $$$ 
